@@ -16,8 +16,12 @@
 
 협업 필터링 (Collaborative filtering)
 -------------
-- 아이템 기반 인접 이웃 협업 필터링 실습_ MovieLens Dataset-small
-- 아이템 기반 인접 이웃 협업 필터링 실습_ MovieLens Dataset
+
+- 최근접 이웃 협업 필터링 개념
+- 아이템 기반 최근접 이웃 협업 필터링 실습_ MovieLens Dataset-small
+- 아이템 기반 최근접 이웃 협업 필터링 실습_ MovieLens Dataset
+
+- 잠재 요인 기반 협업 필터링 개념
 - 잠재 요인 기반 협업 필터링 실습_MovieLens Dataset
 
 <br/>

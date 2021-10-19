@@ -13,7 +13,7 @@
 
 <br/>
 
-콘텐츠 기반 필터링 개념(Content based filtering)
+콘텐츠 기반 필터링 (Content based filtering)
 -------------
 
 - [콘텐츠 기반 필터링 개념](https://github.com/passiona2z/recommend_system_study/blob/main/machine_learning_code/1%20Content%20based%20filtering.md)

@@ -38,3 +38,8 @@ Surprise 라이브러리 활용
 - 추천 시스템 패키지 Surprise 실습_MovieLens Dataset
 
 <br/>
+
+[레퍼런스]
+- 광주인공지능사관학교 2기 강의자료(데이터분석, 머신러닝)
+- (도서) 파이썬 머신러닝 완벽가이드
+- https://needjarvis.tistory.com/451 (추천 시스템의 종류)

@@ -17,10 +17,9 @@
 협업 필터링 (Collaborative filtering)
 -------------
 
-- 최근접 이웃 협업 필터링 개념
+- [최근접 이웃 협업 필터링 개념](https://github.com/passiona2z/recommend_system_study/blob/main/machine_learning_code/2%20Nearest%20Neighbor%20Collaborative%20filtering.md)
 - 아이템 기반 최근접 이웃 협업 필터링 실습_ MovieLens Dataset-small
 - 아이템 기반 최근접 이웃 협업 필터링 실습_ MovieLens Dataset
-
 - 잠재 요인 기반 협업 필터링 개념
 - 잠재 요인 기반 협업 필터링 실습_MovieLens Dataset
 

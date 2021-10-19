@@ -14,9 +14,9 @@
 협업 필터링 (Collaborative filtering)
 -------------
 - 아이템 기반 인접 이웃 협업 필터링 실습_ MovieLens Dataset-small
-- 아이템 기반 인접 이웃 협업 필터링 실습_ MovieLens Dataset(진행중)
-- 잠재 요인 기반 협업 필터링 실습_MovieLens Dataset(진행중)
+- 아이템 기반 인접 이웃 협업 필터링 실습_ MovieLens Dataset
+- 잠재 요인 기반 협업 필터링 실습_MovieLens Dataset
 
 Surprise 라이브러리 활용 
 -------------
-- 추천 시스템 패키지 Surprise 실습_MovieLens Dataset(진행중)
+- 추천 시스템 패키지 Surprise 실습_MovieLens Dataset

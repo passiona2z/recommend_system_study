@@ -7,4 +7,5 @@
 
 **ITEM B와 비슷한 콘텐츠(속성)**를 가진 **ITEM C**를 추천  
 
-![image](https://user-images.githubusercontent.com/75558808/137829153-39ceea98-f104-40f7-9b65-5ee7232ef042.png)
+
+<img src="https://user-images.githubusercontent.com/75558808/137829153-39ceea98-f104-40f7-9b65-5ee7232ef042.png"  width="300" height="300"/>

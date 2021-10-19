@@ -5,6 +5,10 @@
 
 
 
+
+
+
+
 콘텐츠 기반 필터링 (Content based filtering)
 -------------
 - 컨텐츠 기반 필터링 실습(장르)_ TMDB 5000 Movie Dataset

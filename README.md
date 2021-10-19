@@ -8,6 +8,7 @@
 연관성 분석 (Association analysis)
 -------------
 - [연관성 분석 개념] (예정)
+- 
 - 컨텐츠 기반 필터링 실습 (예정)
 
 <br/>
@@ -16,6 +17,7 @@
 -------------
 
 - [콘텐츠 기반 필터링 개념](https://github.com/passiona2z/recommend_system_study/blob/main/machine_learning_code/1%20Content%20based%20filtering.md)
+
 - 컨텐츠 기반 필터링 실습(장르)_ TMDB 5000 Movie Dataset
 - 컨텐츠 기반 필터링 실습(줄거리)_ TMDB 5000 Movie Dataset
 
@@ -25,10 +27,13 @@
 -------------
 
 - [최근접 이웃 협업 필터링 개념](https://github.com/passiona2z/recommend_system_study/blob/main/machine_learning_code/2%20Nearest%20Neighbor%20Collaborative%20filtering.md)
+
 - 사용자 기반 최근접 이웃 협업 필티링 실습_ MovieLens Dataset-small (예정)
 - 아이템 기반 최근접 이웃 협업 필터링 실습_ MovieLens Dataset-small
 - 아이템 기반 최근접 이웃 협업 필터링 실습_ MovieLens Dataset
-- 잠재 요인 기반 협업 필터링 개념
+
+- [잠재 요인 기반 협업 필터링 개념](https://github.com/passiona2z/recommend_system_study/blob/main/machine_learning_code/3%20Latent%20Factor%20collaborative%20filtering.md)
+
 - 잠재 요인 기반 협업 필터링 실습_MovieLens Dataset
 
 <br/>
